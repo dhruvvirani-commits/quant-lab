@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*.csv
+data/*.parquet
+equity_curve.png
+.DS_Store
