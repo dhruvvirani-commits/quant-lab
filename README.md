@@ -37,4 +37,4 @@ See each project's own README for detail. Start with [`p1_backtester/`](p1_backt
 
 ---
 
-*Not financial advice. Built by Dhruv Virani — MSc Artificial Intelligence, ECE Paris.*
+
