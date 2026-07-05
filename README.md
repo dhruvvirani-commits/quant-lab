@@ -36,4 +36,4 @@ python -m p2_volatility.run --source synthetic
 
 ---
 
-
+*Not financial advice. Built by Dhruv Virani — MSc Artificial Intelligence, ECE Paris.*
