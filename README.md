@@ -40,5 +40,4 @@ python -m pytest tests/ -v
 python -m p3_risk.run --source synthetic
 ```
 
----
 
