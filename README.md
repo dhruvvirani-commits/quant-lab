@@ -42,4 +42,3 @@ python -m p3_risk.run --source synthetic
 
 ---
 
-*Not financial advice. Built by Dhruv Virani — MSc Artificial Intelligence, ECE Paris.*
